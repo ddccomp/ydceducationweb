@@ -1,2 +1,1 @@
-# ydceducationweb
-Yadnyesh School Project
+# educational.github.io
